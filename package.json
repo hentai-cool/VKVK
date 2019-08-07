@@ -1,0 +1,16 @@
+{
+  "name": "vkcomms-spammer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "console-title": "^1.1.0",
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "author": "triggex",
+  "license": "ISC",
+  "description": "VKComms Spammer"
+}
